@@ -9,13 +9,18 @@
 This homelab is designed to:
 
 • Host a large self‑managed media streaming platform
+
 • Provide private cloud services and data storage
+
 • Run containerised applications for automation and monitoring
+
 • Experiment with AI and local large language models
+
 • Serve as a learning platform for networking, DevOps and systems engineering
+
 • Act as a practical portfolio demonstrating real‑world infrastructure management
 
-All sensitive data such as public IPs, domains, credentials and exact storage paths are intentionally redacted for privacy.
+All sensitive data, such as public IPs, domains, credentials and exact storage paths are intentionally redacted for privacy.
 
 ---
 
@@ -24,23 +29,33 @@ All sensitive data such as public IPs, domains, credentials and exact storage pa
 ### **Compute**
 
 • Multi‑core desktop server CPU
+
 • Dedicated GPU acceleration for media transcoding and AI workloads
+
 • High‑capacity RAM for virtualisation and container workloads
 
 ### **Storage**
 
 • NVMe SSD for operating system and container runtime
+
 • High‑speed SSD for metadata and cache
+
 • Multiple enterprise HDDs for mass media storage
+
 • Automated library organisation and media indexing
 
 ### **Networking**
 
 • High‑speed home broadband connection
+
 • Multi‑router architecture
+
 • Secure remote access via encrypted VPN tunnel
+
 • Reverse proxy for secure external service routing
+
 • Internal DNS‑level filtering and ad blocking
+
 • VLAN segmentation for service isolation
 
 ---
@@ -112,12 +127,19 @@ All services are deployed using containerisation for portability, reliability an
 The media platform includes extensive UI and feature customisation:
 
 • Custom themes and interface redesign
+
 • Metadata enhancement plugins
+
 • Intro and credits detection
+
 • Advanced playback statistics
+
 • Custom user profiles and access controls
+
 • Kids‑restricted media libraries
+
 • GPU hardware transcoding
+
 • Direct‑play optimisation for supported devices
 
 ---
