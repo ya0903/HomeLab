@@ -246,5 +246,3 @@ This documentation intentionally omits or redacts:
 This project documentation is shared for educational and portfolio purposes only.
 
 ---
-
-**End of Overview**
